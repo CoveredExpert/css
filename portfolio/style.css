@@ -1,0 +1,36 @@
+h1{
+color: navy;
+}
+
+.header {
+    display: flex; /* or inline-flex */
+background-color: turquoise;  
+}
+.menu{
+color: goldenrod;
+display:flex;
+justify-content: center;
+}
+p{
+
+    color: darkblue;
+    display:flex;
+    justify-content: center;
+    background-color: turquoise;  
+}
+
+.game{
+
+    color:goldenrod;
+    display:flex;
+    justify-content: center;
+    background-color:goldenrod;
+    border: cadetblue;
+}
+.footer{
+    display: flex;
+justify-content: center;
+
+
+
+}
